@@ -1,2 +1,2 @@
-# yelp-api-core
+# Yelp API Core
 Practice using the Yelp API.
